@@ -1,6 +1,5 @@
 name: Issue
 description: Standard issue - type, priority, effort, labels and assignee.
-title: ""
 assignees:
   - CoffeeBeanMarketing
 body:
